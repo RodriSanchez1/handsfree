@@ -1,21 +1,3 @@
-# ⚠️ IMPORTANT UPDATE: July 13th, 2022
-
-Hi, this is Oz Ramos and I wanted to quickly explain what happened to this project and what I plan to do moving forward.
-
-I started Handsfree.js back in 2018 while homeless in order to help a friend recovering from a stroke at the shelter use the web with face gestures. Overtime and through the support and encouragement of many people (see the "Special Thanks" section below) this project grew to become much more than that. This Spring, I had a severe mental health breakdown from chronic burnout and in an effort to "move on" I deleted my entire body of work. I'm sorry.
-
-I will pin an issue soon to explain what led to the breakdown and what I (and anyone in a similar situation) can do. The documentation is temporarily hosted at https://handsfreejs.netlify.app/ for now until I get everything back in order, although it may take some time for me to do.
-
-Unfortunately, this is an older version of the repo and an even older version of the docs and may not be totally up to date to whatever was the last version I left off at this Spring. Fortunately, most of the work will just involve updating the models.
-
-Please allow for some time for all the links to be restored. In the meantime if you have any issues or would like to discuss any of this with me publicly I will be responding to issues/discussions, and if you'd like to message me privately see my profile for links.
-
-Finally, I will create a list of other resources that you can use.
-If anyone would like to become a collaborator or take over the project, please let me know.
-Oz Ramos/Midifungi
-
----
-
 <div align="center">
   <p><a href="https://handsfreejs.netlify.app/"><img src="https://media2.giphy.com/media/BBcnSU1IJ5tpQbwXDI/giphy.gif" alt="https://handsfreejs.netlify.app" title="https://handsfreejs.netlify.app"></a></p>
   <p>Quickly integrate face, hand, and/or pose tracking to your frontend projects in a snap ✨👌</p>
@@ -39,6 +21,14 @@ Oz Ramos/Midifungi
 <br>
 <br>
 <br>
+
+<br>
+<br>
+<br>
+<hr>
+
+> **Update March 14th 2023** - Hello! This is a quick update to say that I'll be restoring this project soon. I'll pin an issue in a few days (or weeks) with my plans for restoring the project along with a roadmap and updated documentation
+
 <hr>
 <br>
 <br>
