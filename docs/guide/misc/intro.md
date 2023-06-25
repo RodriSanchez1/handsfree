@@ -307,8 +307,8 @@ handsfree.plugin.faceClick.config.morphs[0] = .25
 
 Anytime something happens within Handsfree.js, a class is added to the `document.body`. This makes styling your app or showing and hiding elements based on the state super easy. Here are where you can find them:
 
-- Generic classes: https://handsfree.js.org/ref/util/classes.html
-- Pinching states: https://handsfree.js.org/ref/plugin/pinchers.html#classes
+- Generic classes: https://handsfreejs.netlify.app/ref/util/classes.html
+- Pinching states: https://handsfreejs.netlify.app/ref/plugin/pinchers.html#classes
 
 ---
 
